@@ -1,0 +1,14 @@
+namespace: "community"
+name: "ansible-pyats"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "CiscoDevNet"
+license:
+    - "GPLv2"
+tags:
+    - cisco
+    - DevNet
+    - pyATS
+    - collection
+repository: "https://github.com/markciecior/ansible-pyats"
