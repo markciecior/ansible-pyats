@@ -1,6 +1,4 @@
 version: 3
 
 dependencies:
-  python:
-  - pyats
-  - genie
+  python: requirements.txt
