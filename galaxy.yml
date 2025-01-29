@@ -1,5 +1,5 @@
-namespace: "community"
-name: "ansible-pyats"
+namespace: "cait"
+name: "pyats"
 version: "1.0.0"
 readme: "README.md"
 authors:
